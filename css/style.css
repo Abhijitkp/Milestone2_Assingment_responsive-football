@@ -156,3 +156,49 @@ main{
 .player-name{
     font-size: 28px;
 }
+
+
+/* =========================*\
+
+  Footer section Style
+
+ \*=========================*/
+
+ .footer-section{
+    
+    /* margin-left: 575px;
+    margin-right: 481px;
+    margin-left: 150px ; */
+    margin-top:42px;
+    
+}
+
+.footer-class{
+    width: 483px;
+    height: 213px;
+    /* padding-left:100px; */
+    display :flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top : 143px;
+    padding-bottom:80px;
+
+}
+
+.footbal-footer-logo img{
+  width: 483.87px;
+  height: 110px;
+}
+.social-media-logo{
+        
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 30px;
+        margin-bottom:;
+    
+}
+.fab{
+    width: 32px;
+    height: 32px;
+}
